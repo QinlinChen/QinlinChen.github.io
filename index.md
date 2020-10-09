@@ -23,6 +23,27 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 ## Publications
 
 ## Projects
+National Innovation Projects for Undergraduates:
+- Detection of Smells in Spreadsheets Based on Dynamic Video Analysis (May 2018 - Mar 2020)
+  - Rated as Excellent in the Final Defense
+  
+Selected Course Projects:
+- Bustub (from CMU: 15-445)
+  - A SQL database system. (in C++)
+- Labs for Distribued Systems (from MIT: 6.824)
+  - Implemented MapReduce and sharded kvdb. (in Go)
+- [EmojiRecommendation](https://github.com/QinlinChen/EmojiRecommendation) (from NJU: Data Mining)
+  - Recommend emojis for sentences. (in Python)
+- [Painter](https://github.com/QinlinChen/Painter) (from NJU: Principle of Computer Graphics)
+  - A graphics system for painting primitives. (in C++)
+- [CMM Compiler](https://github.com/QinlinChen/cmm-compiler) (from NJU: Principles and Techniques of Compiler)
+  - A compiler for C--, a subset of the C programming language (in C)
+- [ToyOS](https://github.com/QinlinChen/ToyOS) (from NJU: Operating Systems)
+  - Mini Operating System Kernel. (in C)
+- [ics2017-pa](https://github.com/QinlinChen/ics2017-pa) (from NJU: Introduction to Computer Systems)
+  - i386 Emulator. (in C)
+
+AI System for Guandan (in Python, in a Group of Three Students) (Course: Artificial Intelligence)
 
 ## Awards & Honors
 - 南京大学2020届优秀毕业生 (Outstanding Graduates Awards of Nanjing University, 2020)
