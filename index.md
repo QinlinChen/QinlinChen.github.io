@@ -11,7 +11,7 @@ Contact:
 
 ## About
 
-I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in SPAR Group, Institute of Computer Software, Nanjing University. I have my research interests in software testing and system software. 
+I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in SPAR Group, Institute of Computer Software, Nanjing University. I have my research interests in software testing, software analysis, and system software. 
 
 ## Education
 
