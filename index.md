@@ -5,11 +5,9 @@
 - Department of Computer Science and Technology
 - Nanjing University
 
-Office:
-- 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
-
-Email:
-- chenqinlin98 AT gmail DOT com
+Contact:
+- Office: 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
+- Email: chenqinlin98 AT gmail DOT com
 
 ## About
 
