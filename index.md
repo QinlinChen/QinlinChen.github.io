@@ -23,11 +23,11 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 ## Publications
 
 ## Projects
-National Innovation Projects for Undergraduates:
+**National Innovation Projects for Undergraduates**:
 - Detection of Smells in Spreadsheets Based on Dynamic Video Analysis (May 2018 - Mar 2020)
   - Rated as Excellent in the Final Defense
   
-Selected Course Projects:
+**Selected Course Projects**:
 - Bustub (from CMU: 15-445)
   - A SQL database system. (in C++)
 - Labs for Distribued Systems (from MIT: 6.824)
@@ -42,8 +42,6 @@ Selected Course Projects:
   - Mini Operating System Kernel. (in C)
 - [ics2017-pa](https://github.com/QinlinChen/ics2017-pa) (from NJU: Introduction to Computer Systems)
   - i386 Emulator. (in C)
-
-AI System for Guandan (in Python, in a Group of Three Students) (Course: Artificial Intelligence)
 
 ## Awards & Honors
 - 南京大学2020届优秀毕业生 (Outstanding Graduates Awards of Nanjing University, 2020)
