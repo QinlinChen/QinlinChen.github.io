@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+### Qinlin Chen
 
-You can use the [editor on GitHub](https://github.com/QinlinChen/QinlinChen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- M.Sc. Student
+- SPAR Group, Institute of Computer Software
+- Department of Computer Science and Technology
+- Nanjing University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contact
+- Office: 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
+- Email: chenqinlin98 AT gmail DOT com
 
-### Markdown
+## About
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in SPAR Group, Institute of Computer Software, Nanjing University. I have my research interests in software testing and system software. 
 
-```markdown
-Syntax highlighted code block
+## Education
 
-# Header 1
-## Header 2
-### Header 3
+- Nanjing University (2020.09 - )
+  - Studying for a M.Sc. Degree in Computer Science and Technology
+- Nanjing University (2016.09 - 2020.07)
+  - Recevied a B.S. Degree in Computer Science and Technology
 
-- Bulleted
-- List
+## Publications
 
-1. Numbered
-2. List
+## Projects
 
-**Bold** and _Italic_ and `Code` text
+## Awards & Honors
 
-[Link](url) and ![Image](src)
-```
+## Services and Experiences
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QinlinChen/QinlinChen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Hobbies
