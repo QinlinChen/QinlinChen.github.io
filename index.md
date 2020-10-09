@@ -25,7 +25,14 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 ## Projects
 
 ## Awards & Honors
+- 南京大学2020届优秀毕业生 (Outstanding Graduates Awards of Nanjing University, 2020)
+- 2019年南京大学拔尖计划奖学金特等奖
+- 2018年南京大学拔尖计划奖学金二等奖
+- 2017年南京大学拔尖计划奖学金二等奖
 
 ## Services and Experiences
+- Teaching Assistant
+  - [Structure and Interpretation of Computer Programs (Fall 2020)](https://nju-sicp.bitbucket.io/). Nanjing University
 
 ## Hobbies
+Guess~
