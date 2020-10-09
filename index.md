@@ -1,13 +1,15 @@
-### Qinlin Chen
+### Qinlin Chen (陈钦霖)
 
 - M.Sc. Student
 - SPAR Group, Institute of Computer Software
 - Department of Computer Science and Technology
 - Nanjing University
 
-Contact
-- Office: 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
-- Email: chenqinlin98 AT gmail DOT com
+Office:
+- 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
+
+Email:
+- chenqinlin98 AT gmail DOT com
 
 ## About
 
