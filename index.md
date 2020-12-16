@@ -11,7 +11,7 @@ Contact:
 
 ## About
 
-I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in [SPAR Group](http://ics.nju.edu.cn/spar/), Institute of Computer Software, Nanjing University. I have my interests in software reliability methods (i.e. testing, analysis, and formal methods), and systems (i.e. OS, DB and distributed systems).
+I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in [SPAR Group](http://ics.nju.edu.cn/spar/), Institute of Computer Software, Nanjing University. I have my interests in software reliability methods (i.e. testing, analysis, and formal methods) and systems (i.e. OS, DB and distributed systems).
 
 ## Education
 
