@@ -2,8 +2,7 @@
 
 - M.Sc. Student
 - [SPAR Group](http://ics.nju.edu.cn/spar/), Institute of Computer Software
-- Department of Computer Science and Technology
-- Nanjing University
+- Department of Computer Science and Technology, Nanjing University
 
 Contact:
 - Office: 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
@@ -11,7 +10,7 @@ Contact:
 
 ## About
 
-I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in [SPAR Group](http://ics.nju.edu.cn/spar/), Institute of Computer Software, Nanjing University. I have my interests in software reliability methods (i.e. testing, analysis, and formal methods) and systems (i.e. OS, DB, and distributed systems).
+I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in SPAR Group, Institute of Computer Software, Nanjing University. I have my interests in software reliability methods (i.e. testing, analysis, and formal methods) and systems (i.e. OS, DB, and distributed systems).
 
 ## Education
 
