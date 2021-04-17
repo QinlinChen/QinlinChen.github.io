@@ -21,7 +21,7 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 
 ## Publications
 
-No publications yet. But I wrote some posts on Zhihu for fun. Click (here)[https://www.zhihu.com/people/QinlinChen/posts] if you have any interests.
+No publications yet. But I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/QinlinChen/posts) if you have any interests.
 
 ## Projects
 **National Innovation Projects for Undergraduates**:
