@@ -118,7 +118,9 @@
 - 重构
   - [重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
     - 也是挺有名的书了。核心就是：重构要有测试样例支持，要小步小步地来。
-
+- 形式化方法
+  - [Software Reliability Methods](https://book.douban.com/subject/10533389/)
+    - 这本书介绍了对软件形式化建模、规约、验证的方法。
 ## 程序设计语言
 - 编译原理
   - [编译原理 (龙书)](https://book.douban.com/subject/3296317/)
