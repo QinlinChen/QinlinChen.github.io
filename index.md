@@ -29,9 +29,9 @@ No publications yet. But I wrote some posts on Zhihu for fun. Click [here](https
   - Rated as Excellent in the Final Defense.
   
 **Selected Course Projects**:
-- Bustub (from CMU: 15-445, in C++)
+- Bustub^ (from CMU: 15-445, in C++)
   - A SQL database system. 
-- Labs for Distribued Systems (from MIT: 6.824, in Golang)
+- Labs for Distribued Systems^ (from MIT: 6.824, in Golang)
   - Implemented MapReduce and sharded kvdb.
 - [EmojiRecommendation](https://github.com/QinlinChen/EmojiRecommendation) (from NJU: Data Mining, in Python)
   - Recommend emojis for sentences.
@@ -43,6 +43,8 @@ No publications yet. But I wrote some posts on Zhihu for fun. Click [here](https
   - Mini Operating System Kernel.
 - [ics2017-pa](https://github.com/QinlinChen/ics2017-pa) (from NJU: Introduction to Computer Systems, in C)
   - i386 Emulator.
+
+(I'd better not to publish my code for some of these programming assignments (marked with ^) on github according to their course policies. Contact me if you want them.)
 
 ## Awards & Honors
 - 南京大学2020届优秀毕业生 (Outstanding Graduates Awards of Nanjing University, 2020)
