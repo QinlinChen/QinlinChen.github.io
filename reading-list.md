@@ -1,3 +1,5 @@
+| [Home](index.md) | [Reading List](reading-list.md) | [Posts on Zhihu](https://www.zhihu.com/people/QinlinChen/posts) |
+
 # Reading List
 
 从我学计算机开始，啃了好多书，也慢慢有点心得。所以我在此整理了一些我读过的值得推荐的书（或者课程），并附上简评，作为读者的参考。
