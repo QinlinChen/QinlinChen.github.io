@@ -64,7 +64,8 @@
   - [Computer Architecture: A Quantitative Approach (CAAQA)](https://book.douban.com/subject/7006537/)
     - 又一本经典。接过CSAPP，带你更深入理解底层硬件。
   - [A Primer on Memory Consistency and Cache Coherence](https://book.douban.com/subject/6829746/)
-    - 在学习并发的时候，会慢慢接触到内存模型。这本书能帮你解答很大一部分疑惑。CAAQA在这方面反而讲得很粗糙。
+    - 在学习并发的时候，会慢慢接触到内存的一致性模型。这本书能帮你解答很大一部分疑惑。CAAQA在这方面反而讲得很粗糙。
+    - 其实内存的一致性模型真的很麻烦。后面可以看到，分布式的一致性模型还算是有形式化描述的，但内存的一致性模型早期都没有，因为那时是先有硬件实现后有模型描述，而不是先有模型描述，再有硬件实现。这导致很难用一个简洁的模型统一各种不同的硬件的实现。
 
 ## 系统
 
@@ -98,6 +99,10 @@
   - [Designing Data-Intensive Applications](https://book.douban.com/subject/30329536/)
     - 联系理论和实践的书，适合在学完前面（偏理论的）东西，并有一定大数据实践经验后再看。
     - 帮你梳理分布式系统的知识框架。
+  - [Principles of Eventual Consistency](https://www.microsoft.com/en-us/research/publication/principles-of-eventual-consistency/)
+    - 如果前面几本书把分布式一致性讲得让你迷迷糊糊，那么一份形式化的描述应该会很有帮助。
+    - 这本书提出vis-ar框架对分布式一致性模型建模。
+    - [Consistency in Non-Transactional Distributed Storage Systems](https://dl.acm.org/doi/abs/10.1145/2926965)基于这篇论文的vis-ar框架，为更多一致性模型建模，非常震撼。建议搭配阅读。
 - 网络
   - [计算机网络：自顶向下方法](https://book.douban.com/subject/30280001/)
     - 经典教材。
@@ -141,6 +146,8 @@
     - 至于机器学习库，scikit-learn、pytorch的官方文档写得足够好了，直接看就行。
 
 ## 编程实践
+前面主要是教你“造车”的书。这里是教你“开车”的书。
+
 - C
   - [C Primer Plus](https://book.douban.com/subject/26792521/)
     - 我入门C语言的书。很不错。
