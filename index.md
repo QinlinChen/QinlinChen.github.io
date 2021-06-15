@@ -1,3 +1,6 @@
+| [Home](index.md) | [Reading List](reading-list.md) | [Posts on Zhihu](https://www.zhihu.com/people/QinlinChen/posts) |
+| - | - | - |
+
 ### Qinlin Chen (陈钦霖)
 
 - M.Sc. Student
