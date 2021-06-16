@@ -1,6 +1,6 @@
 | [Home](index.md) | [Reading List](reading-list.md) | [Posts on Zhihu](https://www.zhihu.com/people/QinlinChen/posts) |
 
-### Qinlin Chen (陈钦霖)
+# Qinlin Chen (陈钦霖)
 
 - M.Sc. Student
 - [SPAR Group](http://ics.nju.edu.cn/spar/), Institute of Computer Software
@@ -12,7 +12,7 @@ Contact:
 
 ## About
 
-I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in SPAR Group, Institute of Computer Software, Nanjing University. I have my interests in software reliability methods (i.e. testing, analysis, and formal methods) and systems (i.e. OS, DB, and distributed systems).
+I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in [SPAR Group](http://ics.nju.edu.cn/spar/), Institute of Computer Software, Nanjing University. I am supervised by [Yanyan Jiang](http://ics.nju.edu.cn/~jyy/). I have my interests in systems (i.e. OS, DB, and distributed systems) and software reliability methods (i.e. testing, analysis, and formal methods).
 
 ## Education
 
