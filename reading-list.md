@@ -73,8 +73,9 @@
 
 - 操作系统
   - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-    - 免费好用的操作系统教材。
-    - 但学习操作系统最好的方法，是自己写点代码！配合MIT 6.828食用更佳。
+    - 免费好用的操作系统书，也是南大蒋炎岩老师[操作系统课](https://www.bilibili.com/video/BV1HN41197Ko)的教材。
+    - 操作系统相关的英文课程也可以选择MIT 6.828。
+    - 但学习操作系统最好的方法，是自己写点代码！无论是蒋老师的操作系统实验，还是6.828的实验，都可以做，选一个做就行了。配合阅读6.828中的教学操作系统xv6的源码效果更佳。
   - [鸟哥的linux私房菜](http://linux.vbird.org/linux_basic/)
     - 教你使用Linux系统的工具书。
     - 建议阅读方法：第一遍找自己感兴趣的细读，其它部分略读。之后有需求了再查阅、细读对应章节。
@@ -121,6 +122,7 @@
 - 形式化方法
   - [Software Reliability Methods](https://book.douban.com/subject/10533389/)
     - 这本书介绍了对软件形式化建模、规约、验证的方法。
+    - 可以搭配阅读前面提到的那本《Logic in Computer Science: Modelling and Reasoning about Systems》。
 
 ## 程序设计语言
 - 编译原理
@@ -175,14 +177,14 @@
   - [Software Foundations Volume 1](https://softwarefoundations.cis.upenn.edu/)
 - Haskell
   - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
-    - 为一个语言而惊叹
+    - 为一个语言而惊叹。
 - SQL
   - [SQL必知必会](https://book.douban.com/subject/35167240/)
 - Unix
   - [UNIX环境高级编程](https://book.douban.com/subject/25900403/)
     - 学习UNIX环境编程的经典，除了太厚了。
   - [UNIX网络编程 第1卷](https://book.douban.com/subject/1500149/)
-    - 也是经典。我都惊叹以前的我能看完那么厚的书。
+    - 也是经典。我都惊讶以前的我能看完那么厚的书。
 - Qt
   - [C++ GUI Qt 4编程](https://book.douban.com/subject/3173123/)
     - 有人教比看官方文档舒服多了。不过不知道有没有过时了。
