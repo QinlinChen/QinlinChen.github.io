@@ -3,7 +3,7 @@
 # Qinlin Chen (陈钦霖)
 
 - M.Sc. Student
-- [SPAR Group](http://ics.nju.edu.cn/spar/), Institute of Computer Software
+- [Pascal Research Group](https://pascal-group.bitbucket.io/), Institute of Computer Software
 - Department of Computer Science and Technology, Nanjing University
 
 Contact:
@@ -12,7 +12,7 @@ Contact:
 
 ## About
 
-I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in the [Pascal Research Group](https://pascal-group.bitbucket.io/) at Nanjing University. I am supervised by [Yue Li](https://yuelee.bitbucket.io/) (李樾). I have my interests in systems (i.e. OS, DB, and distributed systems) and software reliability methods (i.e. testing, analysis, and formal methods).
+I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in the [Pascal Research Group](https://pascal-group.bitbucket.io/) at Nanjing University. I am supervised by [Yue Li](https://yuelee.bitbucket.io/) (李樾). I have my interest in programming languages, software reliability methods, and distributed systems.
 
 ## Education
 
