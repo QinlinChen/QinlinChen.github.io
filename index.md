@@ -12,12 +12,12 @@ Contact:
 
 ## About
 
-I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a M.Sc. degree in the [Pascal Research Group](https://pascal-group.bitbucket.io/) at Nanjing University. I am supervised by [Yue Li](https://yuelee.bitbucket.io/) (李樾). I have my interest in programming languages, software reliability methods, and distributed systems.
+I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-group.bitbucket.io/) at Nanjing University. I am supervised by [Yue Li](https://yuelee.bitbucket.io/) (李樾). I have my interest in programming languages, software reliability methods, and distributed systems.
 
 ## Education
 
 - Nanjing University (2020.09 - )
-  - Studying for a M.Sc. Degree in Computer Science and Technology.
+  - Studying for a Ph.D. Degree in Computer Science and Technology.
 - Nanjing University (2016.09 - 2020.07)
   - Recevied a B.S. Degree in Computer Science and Technology.
 
@@ -57,4 +57,5 @@ No publications yet. But I wrote some posts on Zhihu for fun. Click [here](https
 ## Services and Experiences
 - Teaching Assistant:
   - [Structure and Interpretation of Computer Programs (Fall 2020)](https://nju-sicp.bitbucket.io/), Nanjing University.
+  - [Static Program Analysis (Fall 2021)](https://pascal-group.bitbucket.io/teaching.html), Nanjing University.
 
