@@ -3,7 +3,7 @@
 # Qinlin Chen (陈钦霖)
 
 - M.Sc. Student
-- [Pascal Research Group](https://pascal-group.bitbucket.io/), Institute of Computer Software
+- [Pascal Research Group](https://pascal-group.bitbucket.io/), [Institute of Computer Software](https://cs.nju.edu.cn/ics/)
 - Department of Computer Science and Technology, Nanjing University
 
 Contact:
