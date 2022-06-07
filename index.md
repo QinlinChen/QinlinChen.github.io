@@ -2,13 +2,13 @@
 
 # Qinlin Chen (陈钦霖)
 
-- M.Sc. Student
-- [Pascal Research Group](https://pascal-group.bitbucket.io/), [Institute of Computer Software](https://cs.nju.edu.cn/ics/)
-- Department of Computer Science and Technology, Nanjing University
+- Ph.D. Student.
+- [Pascal Research Group](https://pascal-group.bitbucket.io/), [Institute of Computer Software](https://cs.nju.edu.cn/ics/).
+- Department of Computer Science and Technology, Nanjing University.
 
 Contact:
-- Office: 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
-- Email: chenqinlin98 AT gmail DOT com
+- Office: 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University.
+- Email: chenqinlin98 AT gmail DOT com.
 
 ## About
 
@@ -16,7 +16,7 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 
 ## Education
 
-- Nanjing University (2020.09 - )
+- Nanjing University (2020.09 - now)
   - Studying for a Ph.D. Degree in Computer Science and Technology.
 - Nanjing University (2016.09 - 2020.07)
   - Recevied a B.S. Degree in Computer Science and Technology.
