@@ -24,7 +24,7 @@
 - 数理逻辑
   - [Logic in Computer Science: Modelling and Reasoning about Systems](https://book.douban.com/subject/1764668/)
     - 数理逻辑在计算机中的地位是绝对重要的。
-    - 一般看数学书最痛苦的就是不知道这个抽象的概念是干啥用的，而这本书妙就妙在，书如其名，讲了数理逻辑在计算机建模与推理的应用（如Model Checking和程序证明）。
+    - 一般看数学书最痛苦的就是不知道这个抽象的概念是干啥用的，而这本书妙就妙在，书如其名，讲了数理逻辑在计算机建模与推理的应用（如 Model Checking 和程序证明）。
     - 所以，用这本书学数理逻辑比《离散数学及其应用》更好。
 - 组合数学
   - [组合数学 (EtoneWiki)](http://tcs.nju.edu.cn/wiki/index.php/%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6_(Fall_2019))
@@ -44,7 +44,7 @@
   - [Algorithms for Hard Problems](https://book.douban.com/subject/1917565/)
     - 学习算法再推进一步，就是用算法解决所谓的“难问题”。解决难问题的方法有随机算法、近似算法、启发式算法等等。
     - 这本是我上课用的教材，姑且相信老师的品味列在这。至少知识点都覆盖全了。
-    - 也可以学习南京大学尹一通老师的[高级算法](http://tcs.nju.edu.cn/wiki/index.php/%E9%AB%98%E7%BA%A7%E7%AE%97%E6%B3%95_(Fall_2020))。里面也有相关参考书。
+    - 不想看这本书的话，推荐学习南京大学尹一通老师的[高级算法](http://tcs.nju.edu.cn/wiki/index.php/%E9%AB%98%E7%BA%A7%E7%AE%97%E6%B3%95_(Fall_2020))。课程主页中也列出了相关参考书。
 - 计算理论
   - [Introduction to Automata Theory, Languages, and Computation](https://book.douban.com/subject/3171389/)
     - 学了计算理论后会觉得思维得到了升华。
@@ -74,20 +74,21 @@
 - 操作系统
   - [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
     - 免费好用的操作系统书，也是南大蒋炎岩老师[操作系统课](https://www.bilibili.com/video/BV1HN41197Ko)的教材。
-    - 操作系统相关的英文课程也可以选择MIT 6.828。
-    - 但学习操作系统最好的方法，是自己写点代码！无论是蒋老师的操作系统实验，还是6.828的实验，都可以做，选一个做就行了。配合阅读6.828中的教学操作系统xv6的源码效果更佳。
-  - [鸟哥的linux私房菜](http://linux.vbird.org/linux_basic/)
-    - 教你使用Linux系统的工具书。
+    - 操作系统相关的英文课程也可以选择 MIT 6.828。
+    - 但学习操作系统最好的方法，是自己写点代码！无论是蒋老师的操作系统实验，还是 6.828 的实验，都可以做，选一个做就行了。
+    - 配合阅读 6.828 中的教学操作系统 xv6 的源码效果更佳。
+  - [鸟哥的 linux 私房菜](http://linux.vbird.org/linux_basic/)
+    - 教你使用 Linux 系统的工具书。
     - 建议阅读方法：第一遍找自己感兴趣的细读，其它部分略读。之后有需求了再查阅、细读对应章节。
   - [Linux From Scratch](http://www.linuxfromscratch.org/)
-    - 真正的Geek应该自己动手编译一个自己的Linux发布版！
-    - 破除认知障。从此再也不会对各类Linux发布版感到迷惑、敬畏。
+    - 真正的 Geek 应该自己动手编译一个自己的 Linux 发布版！
+    - 破除认知障。从此再也不会对各类 Linux 发布版感到迷惑、敬畏。
   - [Linux Kernel Development](https://book.douban.com/subject/6097773/)
-    - 带你速览Linux内核实现的引导书。所以比较薄。
-    - 玩多了Linux，也该看看Linux本身的奥秘了。
+    - 带你速览 Linux 内核实现的引导书。所以比较薄。
+    - 玩多了 Linux，也该看看 Linux 本身的奥秘了。
 - 数据库
   - [Database System Concepts](https://book.douban.com/subject/10548379/)
-    - 学习数据库的最好方法也是写点代码。配合[CMU 15445](https://15445.courses.cs.cmu.edu/fall2019/)食用更佳。
+    - 学习数据库的最好方法也是写点代码。配合 [CMU 15445](https://15445.courses.cs.cmu.edu/fall2019/)食用更佳。
 - 分布式系统
   - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/index.html)
     - 薄薄的小书，带你快速一窥分布式系统面貌。
@@ -102,8 +103,8 @@
     - 帮你梳理分布式系统的知识框架。
   - [Principles of Eventual Consistency](https://www.microsoft.com/en-us/research/publication/principles-of-eventual-consistency/)
     - 如果前面几本书把分布式一致性讲得让你迷迷糊糊，那么一份形式化的描述应该会很有帮助。
-    - 这本书提出vis-ar框架对分布式一致性模型建模。
-    - [Consistency in Non-Transactional Distributed Storage Systems](https://dl.acm.org/doi/abs/10.1145/2926965)基于这篇论文的vis-ar框架，为更多一致性模型建模，非常震撼。建议搭配阅读。
+    - 这本书提出了 vis-ar 框架来对分布式一致性建模。
+    - [Consistency in Non-Transactional Distributed Storage Systems](https://dl.acm.org/doi/abs/10.1145/2926965) 这篇论文基于 vis-ar 框架，为更多一致性建模，非常震撼。建议搭配阅读。
 - 网络
   - [计算机网络：自顶向下方法](https://book.douban.com/subject/30280001/)
     - 经典教材。
@@ -130,7 +131,25 @@
     - 经典教材。或许会有更现代的选择？
 - 程序设计语言理论
   - [Software Foundations (Volume 2)](https://softwarefoundations.cis.upenn.edu/)
-    - 讲程序语言理论的好书！要先看第一卷（列在了下面）。
+    - 讲程序语言理论的入门级好书！
+    - 内容比较综合，包含了操作语义、公理语义（霍尔逻辑）、简单的类型系统。就我个人目前的见识来说，PL 的理论部分主要就是语义建模和类型系统了。
+    - 这本书优点在于有代码演示。缺点在于不够深入。如果只是好奇一点程序设计语言的入门级理论，学到这里就可以了。
+    - 记得要先看第一卷温习一下基础知识（列在了下面）。
+  - [Types and Programming Languages (TaPL)](https://book.douban.com/subject/1761910/)
+    - 讲类型系统的好书！作者善于写作，会把很多概念的动机都讲出来。
+    - 如果不满足于上一本 Software Foundation 对类型系统的介绍（可能你会想抓着SF的作者问：“多态呢！”），那么继续看看这本书吧。
+    - 这本书涉及的类型系统已经基本上覆盖到了日常工作中的场景了。如果还想深入，可能需要去看 Advanced Topics in Types and Programming Languages。待我读完这本书再来评价。
+  - [Semantics engineering with PLT Redex](https://redex.racket-lang.org/)
+    - 这是我在寻求“如何实现一个语言的解释器，以符合为它定义的操作语义”的过程中找到的书。书名中的 PLT Redex 就是这样一个框架：给定某个语言的操作语义定义，它会生成该语言的解释器。
+    - 这本书的上半部分深入地讲解了各种操作语义。令我收获不少。下半部分讲的是用 PLT Redex 实现操作语义，我反而没有去看，因为不怎么喜欢 Racket，哈哈。
+    - 这本书很少看到有人推荐。但我觉得上半部分值得一看。
+  - [Theories of Programming Languages](https://book.douban.com/subject/1949069/)
+    - 这是我上形式语义课的教材。这是一本关于编程语言比较综合的书：它涉及了各种语言（过程式、函数式，以及两者皆有之的）核心在各种语言特性（错误、IO、并发、Continuation）拓展下的语义（操作语义、指称语义），以及类型系统。
+    - 这本书的类型系统讲解得不如 TaPL 通俗易懂：它们的知识覆盖面差不太多，但这本书更偏重类型的数学语义，令人非常痛苦。所以不要看这部分。
+    - 哪怕是讲语义的地方，这本书也更加偏向于指称语义，又是戴上痛苦面具。
+    - 比较推荐有选择性地（因为你大部分内容已经在上面的书中看过了）用这本书的 1-14 章了解一下下面的问题：
+       - 过程式、函数式语言两者的特性混合在一起会遇上什么问题？
+       - 一些高级的语言特性（IO、并发、Continuation）是怎么用语义描述的？
 
 ## 人工智能
 - 机器学习
@@ -147,7 +166,7 @@
     - 结合实践或许更重要。
 - 数据科学
   - [Scipy Lecture Notes](http://scipy-lectures.org/)
-    - 既然前面说结合实践更重要，就列一下数据科学库（numpy, scipy）的入门讲义。
+    - 既然前面说结合实践更重要，就列一下数据科学库（numpy，scipy）的入门讲义。
     - 至于机器学习库，scikit-learn、pytorch的官方文档写得足够好了，直接看就行。
 
 ## 编程实践
@@ -155,43 +174,43 @@
 
 - C
   - [C Primer Plus](https://book.douban.com/subject/26792521/)
-    - 我入门C语言的书。很不错。
+    - 我入门 C 语言的书。很不错。
 - C++
   - [C++ Primer](https://book.douban.com/subject/25708312/)
-    - 我入门C++的书。头铁。
+    - 我入门 C++ 的书。头铁。
   - [Effective C++](https://book.douban.com/subject/5387403/)
   - [深度探索C++对象模型](https://book.douban.com/subject/10427315/)
   - [STL源码剖析](https://book.douban.com/subject/1110934/)
-    - 以上三本，帮你深入理解C++的好书三件套。
+    - 以上三本，帮你深入理解 C++ 的好书三件套。
 - Java
   - [Thinking in Java](https://book.douban.com/subject/2130190/)
-    - 学了C++看的这书学Java。真是嫌厚。
-  - [深入理解java虚拟机](https://book.douban.com/subject/34907497/)
-    - 深入理解Java还得看JVM。
+    - 学了 C++ 看的这书学 Java。真是嫌厚。
+  - [深入理解 Java 虚拟机](https://book.douban.com/subject/34907497/)
+    - 深入理解 Java 还得看 JVM。
 - Python
-  - [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
+  - [廖雪峰 Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - HTML，CSS，JavaScript
   - [w3school](https://www.w3school.com.cn/index.html)
-  - [JavaScript DOM编程艺术](https://book.douban.com/subject/6038371/)
+  - [JavaScript DOM 编程艺术](https://book.douban.com/subject/6038371/)
 - Coq
   - [Software Foundations Volume 1](https://softwarefoundations.cis.upenn.edu/)
 - Haskell
   - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
     - 为一个语言而惊叹。
 - SQL
-  - [SQL必知必会](https://book.douban.com/subject/35167240/)
+  - [SQL 必知必会](https://book.douban.com/subject/35167240/)
 - Unix
-  - [UNIX环境高级编程](https://book.douban.com/subject/25900403/)
+  - [UNIX 环境高级编程](https://book.douban.com/subject/25900403/)
     - 学习UNIX环境编程的经典，除了太厚了。
-  - [UNIX网络编程 第1卷](https://book.douban.com/subject/1500149/)
+  - [UNIX 网络编程 第 1 卷](https://book.douban.com/subject/1500149/)
     - 也是经典。我都惊讶以前的我能看完那么厚的书。
 - Qt
-  - [C++ GUI Qt 4编程](https://book.douban.com/subject/3173123/)
+  - [C++ GUI Qt 4 编程](https://book.douban.com/subject/3173123/)
     - 有人教比看官方文档舒服多了。不过不知道有没有过时了。
 - Android
   - [第一行代码 Android](https://book.douban.com/subject/26915433/)
-- Python后端
-  - [Flask Web开发：基于Python的Web应用开发实战](https://book.douban.com/subject/26274202/)
-- Java后端 (Servlet, JSP, Spring, Mybatis, etc.)
+- Python 后端
+  - [Flask Web 开发：基于 Python 的 Web 应用开发实战](https://book.douban.com/subject/26274202/)
+- Java 后端 (Servlet, JSP, Spring, Mybatis, etc.)
   - [how2j](https://how2j.cn/)
 
