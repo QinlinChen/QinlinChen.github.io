@@ -7,12 +7,12 @@
 - Department of Computer Science and Technology, Nanjing University.
 
 Contact:
-- Office: 544, Building of Computer Science and Technology, Xianlin Campus of Nanjing University.
+- Office: 529, Building of Computer Science and Technology, Xianlin Campus of Nanjing University.
 - Email: chenqinlin98 AT gmail DOT com.
 
 ## About
 
-I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-group.bitbucket.io/) at Nanjing University. I am supervised by [Yue Li](https://yuelee.bitbucket.io/) (李樾). I have my interest in programming languages, software reliability methods, and distributed systems.
+I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-group.bitbucket.io/) at Nanjing University. I am supervised by [Yue Li](https://yuelee.bitbucket.io/) (李樾). I have my interest in programming languages, software reliability methods, and infrastructure systems.
 
 ## Education
 
