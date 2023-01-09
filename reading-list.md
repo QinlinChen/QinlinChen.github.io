@@ -193,6 +193,8 @@
     - 学了 C++ 看的这书学 Java。真是嫌厚。
   - [深入理解 Java 虚拟机](https://book.douban.com/subject/34907497/)
     - 深入理解 Java 还得看 JVM。
+  - [Effective Java (3rd Edition)](https://book.douban.com/subject/27047716/)
+    - 写过一些 Java 代码后可以读一读这本书学习一下最佳实践。
 - Python
   - [廖雪峰 Python 教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - HTML，CSS，JavaScript
