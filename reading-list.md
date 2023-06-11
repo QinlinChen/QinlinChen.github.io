@@ -144,7 +144,9 @@
   - [Types and Programming Languages (TaPL)](https://book.douban.com/subject/1761910/)
     - 讲类型系统的好书！作者善于写作，会把很多概念的动机都讲出来。
     - 如果不满足于上一本 Software Foundation 对类型系统的介绍（可能你会想抓着SF的作者问：“多态呢！”），那么继续看看这本书吧。
-    - 这本书涉及的类型系统已经基本上覆盖到了日常工作中的场景了。如果还想深入，可能需要去看 Advanced Topics in Types and Programming Languages。待我读完这本书再来评价。
+    - 这本书涉及的类型系统已经基本上覆盖到了日常工作中的场景了。如果还想深入，可以去看 Advanced Topics in Types and Programming Languages。
+  - [Advanced Topics in Types and Programming Languages](https://book.douban.com/subject/1761911/)
+    - 这本书 Part I 可以看看，作为对 TaPL 的一个补充。其它章节涉及的东西在日常语言中不常见，建议看个引言以后有需要再看。
   - [Semantics engineering with PLT Redex](https://redex.racket-lang.org/)
     - 这是我在寻求“如何实现一个语言的解释器，以符合为它定义的操作语义”的过程中找到的书。书名中的 PLT Redex 就是这样一个框架：给定某个语言的操作语义定义，它会生成该语言的解释器。
     - 这本书的上半部分深入地讲解了各种操作语义。令我收获不少。下半部分讲的是用 PLT Redex 实现操作语义，我反而没有去看，因为不怎么喜欢 Racket，哈哈。
