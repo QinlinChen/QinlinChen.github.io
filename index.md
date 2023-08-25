@@ -12,7 +12,7 @@ Contact:
 
 ## About
 
-I received my B.S. degree in computer science and technology from Nanjing University in 2020, and I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-group.bitbucket.io/) at Nanjing University. I am supervised by [Yue Li](https://yuelee.bitbucket.io/) (李樾). I have my interest in programming languages, software reliability methods, and infrastructure systems.
+I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-group.bitbucket.io/) at Nanjing University. I am supervised by [Yue Li](https://yuelee.bitbucket.io/) (李樾). I have my interest in programming languages, software reliability methods, and infrastructure systems. Currently I am focusing on applying modern PL&SE techniques to hardware descrpition languages.
 
 ## Education
 
@@ -23,9 +23,15 @@ I received my B.S. degree in computer science and technology from Nanjing Univer
 
 ## Publications
 
-No publications yet. But I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/QinlinChen/posts) if you have any interests.
+- The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog. (OOPSLA'23)
+  - **Qinlin Chen**, Nairen Zhang, Jinpeng Wang, Tian Tan*, Chang Xu, Xiaoxing Ma and Yue Li*.
+
+## Posts
+
+I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/QinlinChen/posts) if you have any interests.
 
 ## Projects
+
 **National Innovation Projects for Undergraduates**:
 - Detection of Smells in Spreadsheets Based on Dynamic Video Analysis (May 2018 - Mar 2020)
   - Rated as Excellent in the Final Defense.
@@ -49,13 +55,15 @@ No publications yet. But I wrote some posts on Zhihu for fun. Click [here](https
 (I'd better not to publish my code for some of these programming assignments (marked with ^) on github according to their course policies. Contact me if you want them.)
 
 ## Awards & Honors
+
 - 南京大学2020届优秀毕业生 (Outstanding Graduates Awards of Nanjing University, 2020)
 - 2019年南京大学拔尖计划奖学金特等奖
 - 2018年南京大学拔尖计划奖学金二等奖
 - 2017年南京大学拔尖计划奖学金二等奖
 
-## Services and Experiences
+## Services
+
 - Teaching Assistant:
-  - [Structure and Interpretation of Computer Programs (Fall 2020)](https://nju-sicp.bitbucket.io/), Nanjing University.
   - [Static Program Analysis (Fall 2021)](https://pascal-group.bitbucket.io/teaching.html), Nanjing University.
+  - [Structure and Interpretation of Computer Programs (Fall 2020)](https://nju-sicp.bitbucket.io/), Nanjing University.
 
