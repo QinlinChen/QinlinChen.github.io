@@ -3,7 +3,7 @@
 # Qinlin Chen (陈钦霖)
 
 - Ph.D. Student.
-- [Pascal Research Group](https://pascal-group.bitbucket.io/), [Institute of Computer Software](https://cs.nju.edu.cn/ics/).
+- [Pascal Research Group](https://pascal-lab.net/), [Institute of Computer Software](https://cs.nju.edu.cn/ics/).
 - Department of Computer Science and Technology, Nanjing University.
 
 Contact:
@@ -12,7 +12,7 @@ Contact:
 
 ## About
 
-I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-group.bitbucket.io/) at Nanjing University. I am supervised by [Yue Li](https://yuelee.bitbucket.io/) (李樾). I have my interest in programming languages, software reliability methods, and infrastructure systems. Currently I am focusing on applying modern PL&SE techniques to hardware descrpition languages.
+I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-lab.net/) at Nanjing University. I am supervised by [Yue Li](https://yuelee.bitbucket.io/) (李樾). I have my interest in programming languages, software reliability methods, and infrastructure systems. Currently I am focusing on applying modern PL&SE techniques to hardware descrpition languages.
 
 ## Education
 
@@ -41,5 +41,5 @@ I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/Q
 
 - Teaching Assistant:
   - [Static Program Analysis (Fall 2021)](https://pascal-group.bitbucket.io/teaching.html), Nanjing University.
-  - [Structure and Interpretation of Computer Programs (Fall 2020)](https://nju-sicp.bitbucket.io/), Nanjing University.
+  - [Structure and Interpretation of Computer Programs (Fall 2020)](https://nju-sicp.bitbucket.io/2020/), Nanjing University.
 
