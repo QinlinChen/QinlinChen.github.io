@@ -1,4 +1,4 @@
-| [Home](index.md) | [Reading List](reading-list.md) | [Posts on Zhihu](https://www.zhihu.com/people/QinlinChen/posts) |
+| [Home](index.md) | [Reading List](reading-list.md) | [Posts on Zhihu](https://www.zhihu.com/people/QinlinChen/posts) | [Github](https://github.com/QinlinChen) |
 
 # Qinlin Chen (陈钦霖)
 
@@ -29,30 +29,6 @@ I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-g
 ## Posts
 
 I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/QinlinChen/posts) if you have any interests.
-
-## Projects
-
-**National Innovation Projects for Undergraduates**:
-- Detection of Smells in Spreadsheets Based on Dynamic Video Analysis (May 2018 - Mar 2020)
-  - Rated as Excellent in the Final Defense.
-  
-**Selected Course Projects**:
-- Bustub^ (from CMU: 15-445, in C++)
-  - A SQL database system. 
-- Labs for Distribued Systems^ (from MIT: 6.824, in Golang)
-  - Implemented MapReduce and sharded kvdb.
-- [EmojiRecommendation](https://github.com/QinlinChen/EmojiRecommendation) (from NJU: Data Mining, in Python)
-  - Recommend emojis for sentences.
-- [Painter](https://github.com/QinlinChen/Painter) (from NJU: Principle of Computer Graphics, in Qt/C++)
-  - A graphics system for painting primitives.
-- [CMM Compiler](https://github.com/QinlinChen/cmm-compiler) (from NJU: Principles and Techniques of Compiler, in C)
-  - A compiler for C--, a subset of the C programming language.
-- [ToyOS](https://github.com/QinlinChen/ToyOS) (from NJU: Operating Systems, in C)
-  - Mini Operating System Kernel.
-- [ics2017-pa](https://github.com/QinlinChen/ics2017-pa) (from NJU: Introduction to Computer Systems, in C)
-  - i386 Emulator.
-
-(I'd better not to publish my code for some of these programming assignments (marked with ^) on github according to their course policies. Contact me if you want them.)
 
 ## Awards & Honors
 
