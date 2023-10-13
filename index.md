@@ -23,7 +23,7 @@ I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-l
 
 ## Publications
 
-- The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog. (OOPSLA'23)
+- [The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog.](papers/2023_OOPSLA_LambdaV.pdf) (OOPSLA'23)
   - **Qinlin Chen**, Nairen Zhang, Jinpeng Wang, Tian Tan\*, Chang Xu, Xiaoxing Ma and Yue Li\*.
 
 ## Posts
