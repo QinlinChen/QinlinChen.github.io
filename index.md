@@ -29,7 +29,7 @@ I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-l
 ## Projects
 
 - snap2exe
-  - `snap2exe` provides a tool and library to generate an ELF executable from a run-time snapshot of a process so that user can continue that process from where it was snapshoted by simply executing the genereated executable.
+  - snap2exe aims to generate an ELF executable from a run-time snapshot of a process so that user can continue that process from where it was snapshoted by simply executing the genereated executable. It looks cool, so I implement it for fun.
 
 
 ## Posts
