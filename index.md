@@ -26,20 +26,26 @@ I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-l
 - [The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog.](papers/2023_OOPSLA_LambdaV.pdf) ([OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla))
   - **Qinlin Chen**, Nairen Zhang, Jinpeng Wang, Tian Tan\*, Chang Xu, Xiaoxing Ma and Yue Li\*.
 
+## Projects
+
+- snap2exe
+  - `snap2exe` provides a tool and library to generate an ELF executable from a run-time snapshot of a process so that user can continue that process from where it was snapshoted by simply executing the genereated executable.
+
+
 ## Posts
 
 I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/QinlinChen/posts) if you have any interests.
 
-## Awards & Honors
-
-- 南京大学2020届优秀毕业生 (Outstanding Graduates Awards of Nanjing University, 2020)
-- 2019年南京大学拔尖计划奖学金特等奖
-- 2018年南京大学拔尖计划奖学金二等奖
-- 2017年南京大学拔尖计划奖学金二等奖
-
 ## Services
+
+- Artifact Reviewer:
+  - OOPSLA 2024 Artifact Evaluation Committee
 
 - Teaching Assistant:
   - [Static Program Analysis (Fall 2021)](https://pascal-group.bitbucket.io/teaching.html), Nanjing University.
   - [Structure and Interpretation of Computer Programs (Fall 2020)](https://nju-sicp.bitbucket.io/2020/), Nanjing University.
 
+## Awards & Honors
+
+- 南京大学2020届优秀毕业生 (Outstanding Graduates Awards of Nanjing University, 2020)
+- 2019年南京大学拔尖计划奖学金特等奖
