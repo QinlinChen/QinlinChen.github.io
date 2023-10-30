@@ -4,7 +4,7 @@
 
 - Ph.D. Student.
 - [Pascal Research Group](https://pascal-lab.net/), [Institute of Computer Software](https://cs.nju.edu.cn/ics/).
-- Department of Computer Science and Technology, Nanjing University.
+- Department of Computer Science and Technology, [Nanjing University](https://www.nju.edu.cn/en/).
 
 Contact:
 - Office: 529, Building of Computer Science and Technology, Xianlin Campus of Nanjing University.
@@ -16,10 +16,14 @@ I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-l
 
 ## Education
 
-- Nanjing University (2020.09 - now)
-  - Studying for a Ph.D. Degree in Computer Science and Technology.
-- Nanjing University (2016.09 - 2020.07)
-  - Recevied a B.S. Degree in Computer Science and Technology.
+- Nanjing University (Sep 2022 - now), China
+  - Studying for a Ph.D. Degree in Computer Science and Technology
+  - Supervisor: [Yue Li](https://yuelee.bitbucket.io/) & [Tian Tan](https://silverbullettt.bitbucket.io/)
+- Nanjing University (Sep 2020 - Jul 2022), China
+  - Studying for a M.Sc. Degree in Computer Science and Technology
+  - Advisor: [Yanyan Jiang](https://ics.nju.edu.cn/~jyy/)
+- Nanjing University (Sep 2016 - Jul 2020), China
+  - Recevied a B.Sc. Degree in Computer Science and Technology
 
 ## Publications
 
