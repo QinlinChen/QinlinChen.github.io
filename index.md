@@ -32,7 +32,7 @@ I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-l
 
 ## Projects
 
-- snap2exe
+- [snap2exe](https://github.com/QinlinChen/snap2exe)
   - snap2exe aims to generate an ELF executable from a run-time snapshot of a process so that user can continue that process from where it was snapshoted by simply executing the genereated executable. It looks cool, so I implement it for fun.
 
 ## Posts
@@ -51,5 +51,6 @@ I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/Q
 ## Awards & Honors
 
 - Distinguished OOPSLA 2023 Artifact Award
+- 江苏银行奖学金 (Bank of Jiangsu Scholarship)
 - 南京大学2020届优秀毕业生 (Outstanding Graduates Awards of Nanjing University, 2020)
 - 2019年南京大学拔尖计划奖学金特等奖
