@@ -27,8 +27,10 @@ I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-l
 
 ## Publications
 
+- ChiSA: Static Analysis for Lightweight Chisel Verification. ([POPL'26](https://popl26.sigplan.org/)) ([Artifact](https://doi.org/10.5281/zenodo.17305182))
+  - Jiacai Cui, **Qinlin Chen**, Zhongsheng Zhan, Tian Tan\*, and Yue Li\*.   
 - [The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog.](papers/2023_OOPSLA_LambdaV.pdf) ([OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla)) ([Artifact](https://zenodo.org/doi/10.5281/zenodo.8140941))
-  - **Qinlin Chen**, Nairen Zhang, Jinpeng Wang, Tian Tan\*, Chang Xu, Xiaoxing Ma and Yue Li\*.
+  - **Qinlin Chen**, Nairen Zhang, Jinpeng Wang, Tian Tan\*, Chang Xu, Xiaoxing Ma, and Yue Li\*.
 
 ## Projects
 
