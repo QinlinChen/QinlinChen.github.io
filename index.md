@@ -3,8 +3,8 @@
 # Qinlin Chen (陈钦霖)
 
 - Ph.D. Student.
-- [Pascal Research Group](https://pascal-lab.net/), [Institute of Computer Software](https://cs.nju.edu.cn/ics/).
-- School of Computer Science, [Nanjing University](https://www.nju.edu.cn/en/).
+- [Pascal Research Group][pascal], [Institute of Computer Software][ics].
+- School of Computer Science, [Nanjing University][nju].
 
 Contact:
 - Office: 529, Building of Computer Science and Technology, Xianlin Campus of Nanjing University.
@@ -12,7 +12,7 @@ Contact:
 
 ## About
 
-I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-lab.net/) at Nanjing University. I am supervised by [Yue Li](https://yuelee.bitbucket.io/) (李樾). I have my interest in programming languages, software reliability methods, and infrastructure systems. Currently I am focusing on applying modern PL&SE techniques to hardware descrpition languages.
+I am studying for a Ph.D. degree in the [Pascal Research Group][pascal] at Nanjing University. I am supervised by [Yue Li][yueli] (李樾). I have my interest in programming languages, software reliability methods, and infrastructure systems. Currently I am focusing on applying modern PL&SE techniques to hardware descrpition languages.
 
 ## Education
 
@@ -58,6 +58,9 @@ I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/Q
 - 南京大学2020届优秀毕业生 (Outstanding Graduates Awards of Nanjing University, 2020)
 - 2019年南京大学拔尖计划奖学金特等奖
 
+[pascal]: https://pascal-lab.net/
+[nju]: https://www.nju.edu.cn/en/
+[ics]: https://cs.nju.edu.cn/ics/
 [yueli]: https://cs.nju.edu.cn/yueli/
 [tiantan]: https://silverbullettt.bitbucket.io/
 [yanyanjiang]: https://ics.nju.edu.cn/~jyy/
