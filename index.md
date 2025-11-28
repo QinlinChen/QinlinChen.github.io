@@ -4,7 +4,7 @@
 
 - Ph.D. Student.
 - [Pascal Research Group](https://pascal-lab.net/), [Institute of Computer Software](https://cs.nju.edu.cn/ics/).
-- Department of Computer Science and Technology, [Nanjing University](https://www.nju.edu.cn/en/).
+- School of Computer Science, [Nanjing University](https://www.nju.edu.cn/en/).
 
 Contact:
 - Office: 529, Building of Computer Science and Technology, Xianlin Campus of Nanjing University.
@@ -18,19 +18,19 @@ I am studying for a Ph.D. degree in the [Pascal Research Group](https://pascal-l
 
 - Nanjing University (Sep 2022 - now), China
   - Studying for a Ph.D. Degree in Computer Science and Technology
-  - Supervisor: [Yue Li](https://yuelee.bitbucket.io/) & [Tian Tan](https://silverbullettt.bitbucket.io/)
+  - Supervisor: [Yue Li][yueli] & [Tian Tan][tiantan]
 - Nanjing University (Sep 2020 - Jul 2022), China
   - Studying for a M.Sc. Degree in Computer Science and Technology
-  - Advisor: [Yanyan Jiang](https://ics.nju.edu.cn/~jyy/)
+  - Advisor: [Yanyan Jiang][yanyanjiang]
 - Nanjing University (Sep 2016 - Jul 2020), China
   - Recevied a B.Sc. Degree in Computer Science and Technology
 
 ## Publications
 
-- ChiSA: Static Analysis for Lightweight Chisel Verification. ([POPL'26](https://popl26.sigplan.org/)) ([Artifact](https://doi.org/10.5281/zenodo.17305182))
-  - Jiacai Cui, **Qinlin Chen**, Zhongsheng Zhan, Tian Tan\*, and Yue Li\*.   
-- [The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog.](papers/2023_OOPSLA_LambdaV.pdf) ([OOPSLA'23](https://2023.splashcon.org/track/splash-2023-oopsla)) ([Artifact](https://zenodo.org/doi/10.5281/zenodo.8140941))
-  - **Qinlin Chen**, Nairen Zhang, Jinpeng Wang, Tian Tan\*, Chang Xu, Xiaoxing Ma, and Yue Li\*.
+- (POPL'26) ChiSA: Static Analysis for Lightweight Chisel Verification. [[Artifact](https://doi.org/10.5281/zenodo.17281239)]
+  - [Jiacai Cui][jiacaicui], **Qinlin Chen**, Zhongsheng Zhan, Tian Tan\*, and Yue Li\*.   
+- (OOPSLA'23) [The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog](papers/2023_OOPSLA_LambdaV.pdf). [[Artifact](https://zenodo.org/doi/10.5281/zenodo.8140941)]
+  - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], Tian Tan\*, Chang Xu, Xiaoxing Ma, and Yue Li\*.
 
 ## Projects
 
@@ -57,3 +57,10 @@ I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/Q
 - 2023年江苏银行奖学金 (Bank of Jiangsu Scholarship, 2023)
 - 南京大学2020届优秀毕业生 (Outstanding Graduates Awards of Nanjing University, 2020)
 - 2019年南京大学拔尖计划奖学金特等奖
+
+[yueli]: https://cs.nju.edu.cn/yueli/
+[tiantan]: https://silverbullettt.bitbucket.io/
+[yanyanjiang]: https://ics.nju.edu.cn/~jyy/
+[jiacaicui]: https://www.cuijiacai.com/
+[nairenzhang]: https://naiiren.github.io/
+[jinpengwang]: https://jjppp.github.io/
