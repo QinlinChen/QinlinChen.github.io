@@ -27,6 +27,8 @@ I am studying for a Ph.D. degree in the [Pascal Research Group][pascal] at Nanji
 
 ## Publications
 
+- (Arxiv'26) [Qihe: A General-Purpose Static Analysis Framework for Verilog](./papers/2026_arxiv_Qihe.pdf) [[Homepage](https://qihe.pascal-lab.net)] 
+  - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], [Jiacai Cui][jiacaicui] Tian Tan\*, Xiaoxing Ma, Chang Xu, Jian Lu, and Yue Li\*.
 - (POPL'26) [ChiSA: Static Analysis for Lightweight Chisel Verification](https://www.cuijiacai.com/assets/pdf/popl26/chisa-paper.pdf). [[Artifact](https://doi.org/10.5281/zenodo.17281239)]
   - [Jiacai Cui][jiacaicui], **Qinlin Chen**, Zhongsheng Zhan, Tian Tan\*, and Yue Li\*.   
 - (OOPSLA'23) [The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog](papers/2023_OOPSLA_LambdaV.pdf). [[Artifact](https://zenodo.org/doi/10.5281/zenodo.8140941)]
@@ -34,6 +36,8 @@ I am studying for a Ph.D. degree in the [Pascal Research Group][pascal] at Nanji
 
 ## Projects
 
+- [Qihe](https://qihe.pascal-lab.net/)
+  - Qihe is the first general-purpose static analysis framework for Verilog. Unlike traditional Verilog linters, which are limited to basic code-style or syntactic checks, Qihe enables deep semantic analysis of hardware designs at the RTL stage.
 - [snap2exe](https://github.com/QinlinChen/snap2exe)
   - snap2exe aims to generate an ELF executable from a run-time snapshot of a process so that user can continue that process from where it was snapshoted by simply executing the genereated executable. It looks cool, so I implement it for fun.
 
