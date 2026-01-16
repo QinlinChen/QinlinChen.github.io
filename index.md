@@ -27,8 +27,8 @@ I am studying for a Ph.D. degree in the [Pascal Research Group][pascal] at Nanji
 
 ## Publications
 
-- (Arxiv'26) [Qihe: A General-Purpose Static Analysis Framework for Verilog](./papers/2026_arxiv_Qihe.pdf) [[Homepage](https://qihe.pascal-lab.net)] 
-  - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], [Jiacai Cui][jiacaicui] Tian Tan\*, Xiaoxing Ma, Chang Xu, Jian Lu, and Yue Li\*.
+- (Arxiv'26) [Qihe: A General-Purpose Static Analysis Framework for Verilog](./papers/2026_arxiv_Qihe.pdf). [[Homepage](https://qihe.pascal-lab.net)] 
+  - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], [Jiacai Cui][jiacaicui], Tian Tan\*, Xiaoxing Ma, Chang Xu, Jian Lu, and Yue Li\*.
 - (POPL'26) [ChiSA: Static Analysis for Lightweight Chisel Verification](https://www.cuijiacai.com/assets/pdf/popl26/chisa-paper.pdf). [[Artifact](https://doi.org/10.5281/zenodo.17281239)]
   - [Jiacai Cui][jiacaicui], **Qinlin Chen**, Zhongsheng Zhan, Tian Tan\*, and Yue Li\*.   
 - (OOPSLA'23) [The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog](papers/2023_OOPSLA_LambdaV.pdf). [[Artifact](https://zenodo.org/doi/10.5281/zenodo.8140941)]
