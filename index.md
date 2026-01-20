@@ -56,6 +56,7 @@ I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/Q
 
 ## Awards & Honors
 
+- 2025年南京大学博士研究生创优项目
 - OOPSLA 2024 Distinguished Artifact Reviewer Award
 - OOPSLA 2023 Distinguished Artifact Award
 - 2023年江苏银行奖学金 (Bank of Jiangsu Scholarship, 2023)
