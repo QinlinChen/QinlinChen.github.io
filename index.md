@@ -38,6 +38,9 @@ I am studying for a Ph.D. degree in the [Pascal Research Group][pascal] at Nanji
   - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], Tian Tan\*, Chang Xu, Xiaoxing Ma, and Yue Li\*.
   - _Distinguished Artifact Award_
 
+
+Corresponding authors are marked with an asterisk (\*).
+
 ## Projects
 
 - [Qihe][qihe]
