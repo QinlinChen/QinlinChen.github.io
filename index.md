@@ -36,6 +36,10 @@ I am studying for a Ph.D. degree in the [Pascal Research Group][pascal] at Nanji
   - [Jiacai Cui][jiacaicui], **Qinlin Chen**, Zhongsheng Zhan, Tian Tan\*, and Yue Li\*.   
 - (OOPSLA'23) [The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog](papers/2023_OOPSLA_LambdaV.pdf). [[Artifact](https://zenodo.org/doi/10.5281/zenodo.8140941)]
   - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], Tian Tan\*, Chang Xu, Xiaoxing Ma, and Yue Li\*.
+  - _Distinguished Artifact Award_
+
+
+Corresponding authors are marked with an asterisk (\*).
 
 ## Projects
 
