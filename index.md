@@ -27,7 +27,7 @@ I am studying for a Ph.D. degree in the [Pascal Research Group][pascal] at Nanji
 
 ## Publications
 
-- (PLDI'26) Exploiting Sophisticated Static Analysis for Verilog. [[Homepage][qihe]] 
+- (PLDI'26) [Exploiting Sophisticated Static Analysis for Verilog](papers/2026_PLDI_Qihe.pdf). [[Homepage][qihe]] 
   - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], [Jiacai Cui][jiacaicui], Tian Tan\*, Xiaoxing Ma, Chang Xu, Jian Lu, and Yue Li\*.
   - This is the conference version of Qihe (ArXiv'26).
 - (ArXiv'26) [Qihe: A General-Purpose Static Analysis Framework for Verilog](https://arxiv.org/pdf/2601.11408). [[Homepage][qihe]] 
