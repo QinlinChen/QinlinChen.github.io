@@ -39,7 +39,7 @@ Corresponding authors are marked with an asterisk (\*).
 - (POPL'26) [ChiSA: Static Analysis for Lightweight Chisel Verification](https://www.cuijiacai.com/assets/pdf/popl26/chisa-paper.pdf). [[Artifact](https://doi.org/10.5281/zenodo.17281239)]
   - [Jiacai Cui][jiacaicui], **Qinlin Chen**, Zhongsheng Zhan, Tian Tan\*, and Yue Li\*.   
 
-### Programming Languages and Semantics
+### Hardware Programming Languages and Semantics
 
 - (OOPSLA'23) [The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog](papers/2023_OOPSLA_LambdaV.pdf). [[Artifact](https://zenodo.org/doi/10.5281/zenodo.8140941)]
   - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], Tian Tan\*, Chang Xu, Xiaoxing Ma, and Yue Li\*.
