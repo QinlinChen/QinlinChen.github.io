@@ -47,7 +47,7 @@ Corresponding authors are marked with an asterisk (\*).
 
 ### Hardware Acceleration
 
-- (OOPSLA'26) When FPGA Meets Dataflow Analysis: An Explorative Step. [[Artifact](https://doi.org/10.5281/zenodo.19045151)]
+- (OOPSLA'26) [When FPGA Meets Dataflow Analysis: An Explorative Step](https://dl.acm.org/doi/10.1145/3839508). [[Artifact](https://doi.org/10.5281/zenodo.19045151)]
   - Fang Wei, **Qinlin Chen** (co-first author), [Nairen Zhang][nairenzhang], [Jiacai Cui][jiacaicui], Tian Tan\*, Zhiqiang Zuo, and Yue Li\*.
 
 ## Projects
