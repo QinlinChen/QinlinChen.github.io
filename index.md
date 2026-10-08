@@ -33,8 +33,8 @@ Corresponding authors are marked with an asterisk (\*).
 
 - (PLDI'26) [Exploiting Sophisticated Static Analysis for Verilog](https://dl.acm.org/doi/10.1145/3808300). [[PDF](papers/2026_PLDI_Qihe.pdf)] [[Homepage][qihe]]
   - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], [Jiacai Cui][jiacaicui], Tian Tan\*, Xiaoxing Ma, Chang Xu, Jian Lu, and Yue Li\*.
-  - This is the conference version of Qihe ([ArXiv'26](https://arxiv.org/pdf/2601.11408)).
-- (ArXiv'26) [Qihe: A General-Purpose Static Analysis Framework for Verilog](https://arxiv.org/pdf/2601.11408). [[PDF](papers/2026_ArXiv_Qihe.pdf)] [[Homepage][qihe]]
+  - This is the conference version of [Qihe (ArXiv'26)](https://arxiv.org/abs/2601.11408).
+- (ArXiv'26) [Qihe: A General-Purpose Static Analysis Framework for Verilog](https://arxiv.org/abs/2601.11408). [[PDF](papers/2026_ArXiv_Qihe.pdf)] [[Homepage][qihe]]
   - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], [Jiacai Cui][jiacaicui], Tian Tan\*, Xiaoxing Ma, Chang Xu, Jian Lu, and Yue Li\*.
 - (POPL'26) [ChiSA: Static Analysis for Lightweight Chisel Verification](https://dl.acm.org/doi/10.1145/3776660). [[PDF](papers/2026_POPL_ChiSA.pdf)] [[Artifact](https://doi.org/10.5281/zenodo.17281239)]
   - [Jiacai Cui][jiacaicui], **Qinlin Chen**, Zhongsheng Zhan, Tian Tan\*, and Yue Li\*.   
