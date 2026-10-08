@@ -31,43 +31,42 @@ Corresponding authors are marked with an asterisk (\*).
 
 ### Hardware Static Analysis
 
-- (PLDI'26) [Exploiting Sophisticated Static Analysis for Verilog](papers/2026_PLDI_Qihe.pdf). [[Homepage][qihe]] 
+- (PLDI'26) [Exploiting Sophisticated Static Analysis for Verilog](https://dl.acm.org/doi/10.1145/3808300). [[PDF](papers/2026_PLDI_Qihe.pdf)] [[Homepage][qihe]]
   - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], [Jiacai Cui][jiacaicui], Tian Tan\*, Xiaoxing Ma, Chang Xu, Jian Lu, and Yue Li\*.
-  - This is the conference version of Qihe (ArXiv'26).
-- (ArXiv'26) [Qihe: A General-Purpose Static Analysis Framework for Verilog](https://arxiv.org/pdf/2601.11408). [[Homepage][qihe]] 
+  - This is the conference version of Qihe ([ArXiv'26](https://arxiv.org/pdf/2601.11408)).
+- (ArXiv'26) [Qihe: A General-Purpose Static Analysis Framework for Verilog](https://arxiv.org/pdf/2601.11408). [[PDF](papers/2026_ArXiv_Qihe.pdf)] [[Homepage][qihe]]
   - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], [Jiacai Cui][jiacaicui], Tian Tan\*, Xiaoxing Ma, Chang Xu, Jian Lu, and Yue Li\*.
-- (POPL'26) [ChiSA: Static Analysis for Lightweight Chisel Verification](https://www.cuijiacai.com/assets/pdf/popl26/chisa-paper.pdf). [[Artifact](https://doi.org/10.5281/zenodo.17281239)]
+- (POPL'26) [ChiSA: Static Analysis for Lightweight Chisel Verification](https://dl.acm.org/doi/10.1145/3776660). [[PDF](papers/2026_POPL_ChiSA.pdf)] [[Artifact](https://doi.org/10.5281/zenodo.17281239)]
   - [Jiacai Cui][jiacaicui], **Qinlin Chen**, Zhongsheng Zhan, Tian Tan\*, and Yue Li\*.   
 
 ### Hardware Programming Languages and Semantics
 
-- (OOPSLA'23) [The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog](papers/2023_OOPSLA_LambdaV.pdf). [[Artifact](https://zenodo.org/doi/10.5281/zenodo.8140941)]
+- (OOPSLA'23) [The Essence of Verilog: A Tractable and Tested Operational Semantics for Verilog](https://dl.acm.org/doi/10.1145/3622805). [[PDF](papers/2023_OOPSLA_LambdaV.pdf)] [[Artifact](https://zenodo.org/doi/10.5281/zenodo.8140941)]
   - **Qinlin Chen**, [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], Tian Tan\*, Chang Xu, Xiaoxing Ma, and Yue Li\*.
-  - _Distinguished Artifact Award_
+  - 🏆 _Distinguished Artifact Award_
 
 ### Hardware Acceleration
 
-- (OOPSLA'26) [When FPGA Meets Dataflow Analysis: An Explorative Step](https://dl.acm.org/doi/10.1145/3839508). [[Artifact](https://doi.org/10.5281/zenodo.19045151)]
+- (OOPSLA'26) [When FPGA Meets Dataflow Analysis: An Explorative Step](https://dl.acm.org/doi/10.1145/3839508). [[PDF](papers/2026_OOPSLA_FpgaFlow.pdf)] [[Artifact](https://doi.org/10.5281/zenodo.19045151)]
   - Fang Wei, **Qinlin Chen** (co-first author), [Nairen Zhang][nairenzhang], [Jiacai Cui][jiacaicui], Tian Tan\*, Zhiqiang Zuo, and Yue Li\*.
 
 ## Projects
 
-- [Qihe][qihe]
-  - Qihe is the first general-purpose static analysis framework for Verilog. Unlike traditional Verilog linters, which are limited to basic code-style or syntactic checks, Qihe enables deep semantic analysis of hardware designs at the RTL stage.
-- [snap2exe](https://github.com/QinlinChen/snap2exe)
-  - snap2exe aims to generate an ELF executable from a run-time snapshot of a process so that user can continue that process from where it was snapshoted by simply executing the genereated executable. It looks cool, so I implement it for fun.
+- [Qihe][qihe]: The First General-Purpose Static Analysis Framework for Verilog
+  - Unlike traditional Verilog linters, which are limited to basic code-style or syntactic checks, Qihe enables deep semantic analysis of hardware designs at the RTL stage.
+  - Qihe is primarily designed and maintained by me, with significant contributions from [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], and [Jiacai Cui][jiacaicui].
+- [Vide][vide]: An Open-Source, Modern SystemVerilog Coding IDE
+  - It brings hardware developers 10+ code analysis features often missing from traditional hardware IDEs, such as precise completion, code annotations, automatic refactoring, and semantic highlighting.
+  - Vide was initially maintained by [Jiayan Wu][jiayanwu] and is now maintained by [Jiarong Hong][jiaronghong].
 
-## Posts
-
-I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/QinlinChen/posts) if you have any interests.
+> **Qihe and Vide are complementary**. Vide is optimized for fast, immediate static-analysis feedback during hardware development. This makes it less suited to deeper, more resource-intensive analyses—such as hardware-vulnerability detection—which are the focus of Qihe.
 
 ## Services
 
-- Reviewer:
-  - TOSEM 2026
-
-- Artifact Reviewer:
-  - OOPSLA 2024 Artifact Evaluation Committee
+- Peer Review
+  - Reviewer for TOSEM, 2026
+  - Artifact Evaluation Committee Member for OOPSLA, 2024
+    - 🏆 _Distinguished Artifact Reviewer Award_
 
 - Teaching Assistant:
   - [Static Program Analysis (Fall 2021)](https://pascal-group.bitbucket.io/teaching.html), Nanjing University.
@@ -86,6 +85,7 @@ I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/Q
 [nju]: https://www.nju.edu.cn/en/
 [ics]: https://cs.nju.edu.cn/ics/
 [qihe]: https://qihe.pascal-lab.net/
+[vide]: https://vide.pascal-lab.net/
 
 [yueli]: https://cs.nju.edu.cn/yueli/
 [tiantan]: https://silverbullettt.bitbucket.io/
@@ -93,3 +93,9 @@ I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/Q
 [jiacaicui]: https://www.cuijiacai.com/
 [nairenzhang]: https://naiiren.github.io/
 [jinpengwang]: https://jjppp.github.io/
+[jiayanwu]: https://github.com/roife
+[jiaronghong]: https://github.com/hongjr03
+
+## Posts
+
+I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/QinlinChen/posts) if you have any interests.
