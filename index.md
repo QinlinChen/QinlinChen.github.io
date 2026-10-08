@@ -4,7 +4,7 @@
 
 - Ph.D. Student.
 - [Pascal Research Group][pascal], [Institute of Computer Software][ics].
-- School of Computer Science, [Nanjing University][nju].
+- [School of Computer Science][njucs], [Nanjing University][nju].
 
 Contact:
 - Office: 529, Building of Computer Science and Technology, Xianlin Campus of Nanjing University.
@@ -81,8 +81,13 @@ Corresponding authors are marked with an asterisk (\*).
 - 南京大学2020届优秀毕业生 (Outstanding Graduates Awards of Nanjing University, 2020)
 - 2019年南京大学拔尖计划奖学金特等奖
 
+## Posts
+
+I wrote some posts (in Chinese) on Zhihu for fun. Click [here](https://www.zhihu.com/people/QinlinChen/posts) if you have any interests.
+
 [pascal]: https://pascal-lab.net/
 [nju]: https://www.nju.edu.cn/en/
+[njucs]: https://cs.nju.edu.cn/
 [ics]: https://cs.nju.edu.cn/ics/
 [qihe]: https://qihe.pascal-lab.net/
 [vide]: https://vide.pascal-lab.net/
@@ -95,7 +100,3 @@ Corresponding authors are marked with an asterisk (\*).
 [jinpengwang]: https://jjppp.github.io/
 [jiayanwu]: https://github.com/roife
 [jiaronghong]: https://github.com/hongjr03
-
-## Posts
-
-I wrote some posts (in Chinese) on Zhihu for fun. Click [here](https://www.zhihu.com/people/QinlinChen/posts) if you have any interests.
