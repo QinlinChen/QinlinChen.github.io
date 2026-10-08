@@ -1,4 +1,4 @@
-| [Home](index.md) | [Reading List](reading-list.md) | [Posts on Zhihu](https://www.zhihu.com/people/QinlinChen/posts) | [Github](https://github.com/QinlinChen) |
+| [Home](index.md) | [My Reading List](reading-list.md) | [Github](https://github.com/QinlinChen) | [Zhihu](https://www.zhihu.com/people/QinlinChen) |
 
 # Qinlin Chen (陈钦霖)
 
@@ -55,11 +55,11 @@ Corresponding authors are marked with an asterisk (\*).
 - [Qihe][qihe]: The First General-Purpose Static Analysis Framework for Verilog
   - Unlike traditional Verilog linters, which are limited to basic code-style or syntactic checks, Qihe enables deep semantic analysis of hardware designs at the RTL stage.
   - Qihe is primarily designed and maintained by me, with significant contributions from [Nairen Zhang][nairenzhang], [Jinpeng Wang][jinpengwang], and [Jiacai Cui][jiacaicui].
-- [Vide][vide]: An Open-Source, Modern SystemVerilog Coding IDE
+- [Vide][vide]: A Modern SystemVerilog Coding IDE
   - It brings hardware developers 10+ code analysis features often missing from traditional hardware IDEs, such as precise completion, code annotations, automatic refactoring, and semantic highlighting.
   - Vide was initially maintained by [Jiayan Wu][jiayanwu] and is now maintained by [Jiarong Hong][jiaronghong].
 
-> **Qihe and Vide are complementary**. Vide is optimized for fast, immediate static-analysis feedback during hardware development. This makes it less suited to deeper, more resource-intensive analyses—such as hardware-vulnerability detection—which are the focus of Qihe.
+> **Qihe and Vide are complementary**. Vide is optimized for fast, immediate static-analysis feedback during hardware development. This makes it less suited to deeper, more resource-intensive analyses, such as hardware bug detection, which are the focus of Qihe.
 
 ## Services
 
@@ -98,4 +98,4 @@ Corresponding authors are marked with an asterisk (\*).
 
 ## Posts
 
-I wrote some posts on Zhihu for fun. Click [here](https://www.zhihu.com/people/QinlinChen/posts) if you have any interests.
+I wrote some posts (in Chinese) on Zhihu for fun. Click [here](https://www.zhihu.com/people/QinlinChen/posts) if you have any interests.
