@@ -63,7 +63,7 @@ Corresponding authors are marked with an asterisk (\*).
 
 ## Services
 
-- Peer Review
+- Peer Review:
   - Reviewer for TOSEM, 2026
   - Artifact Evaluation Committee Member for OOPSLA, 2024
     - 🏆 _Distinguished Artifact Reviewer Award_
